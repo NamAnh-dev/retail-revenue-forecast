@@ -1,0 +1,10 @@
+data/
+
+*.csv
+
+__pycache__/
+
+venv/
+
+
+
